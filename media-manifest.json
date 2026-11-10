@@ -1,0 +1,16 @@
+{
+  "project": "AI Maintenance Engineer",
+  "reviewed": "2026-11-10",
+  "assets": [
+    {
+      "path": "media/overview.png",
+      "bytes": 137931,
+      "sha256": "0d252482182923d763b8245ef76012963dec4a968c97106a4154d1e552f38812"
+    },
+    {
+      "path": "media/walkthrough.mp4",
+      "bytes": 3128841,
+      "sha256": "b5a7f077d7cb399cf14a733b199ea0a1a022898a9d26471e404e2030ab6d8c7c"
+    }
+  ]
+}
